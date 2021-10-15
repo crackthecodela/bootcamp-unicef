@@ -14,7 +14,7 @@ Lista de lecturas que son parte del pre-trabajo y de complemento para cada clase
 * Complemento:
   * [Textos fundamentales con HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
 
-###C lase 3:
+### Clase 3:
 * Pre-trabajo:
   * [HTML semántico 1](https://curriculum.laboratoria.la/es/topics/html/02-html5/02-semantic-html)
   * [HTML semántico 2](https://developer.mozilla.org/es/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
