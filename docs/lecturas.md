@@ -77,6 +77,64 @@ Lista de lecturas que son parte del pre-trabajo y de complemento para cada clase
   * [Lectura y video sobre selección de elementos del DOM](https://curriculum.laboratoria.la/es/topics/browser/02-dom/03-1-dom-methods-selection)
   * [Creación de Menú vertical](https://www.youtube.com/watch?v=tk6DAx5Crn4)
 
+### Clase 11:
+* Pre-trabajo:
+  * [Variables en Javascript](https://curriculum.laboratoria.la/es/topics/javascript/01-basics/01-values-variables-and-types)
+  * [Comentarios en Javascript](https://curriculum.laboratoria.la/es/topics/javascript/01-basics/03-comments)
+* Complemento:
+  * [Tipos de datos en Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures#valores_primitivos)
+
+### Clase 12:
+* Pre-trabajo:
+  * [Operadores lógicos y de comparación](https://curriculum.laboratoria.la/es/topics/javascript/01-basics/01-values-variables-and-types)
+* Complemento:
+  * [Expresiones y operadores](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+
+### Clase 13:
+* Pre-trabajo:
+  * [Operaciones con Strings](https://curriculum.laboratoria.la/es/topics/javascript/06-strings/01-strings)
+* Complemento:
+  * [Strings](https://javascript.info/string)
+
+### Clase 14:
+* Pre-trabajo:
+  * [Toma de decisiones en tu código:condicionales](https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/conditionals)
+* Complemento:
+  * [Estructuras condicionales: if y else](https://curriculum.laboratoria.la/es/topics/javascript/02-flow-control/01-conditionals-and-loops)
+
+### Clase 15:
+* Pre-trabajo:
+  * [Estructuras condicionales: switch](https://curriculum.laboratoria.la/es/topics/javascript/02-flow-control/01-conditionals-and-loops)
+* Complemento:
+  * [Estructuras condicionales](https://curriculum.laboratoria.la/es/topics/javascript/02-flow-control/01-conditionals-and-loops)
+
+## Extra:
+* [How to make Quiz App using HTML CSS and JavaScript (for Beginners)](https://www.youtube.com/watch?v=2jwdyO_UunE)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
