@@ -28,3 +28,32 @@
 * Complemento:
   * Recomendación: [Tutorial de Firma 2](https://www.youtube.com/watch?v=pS77UPHEWrA&list=PLQgVtkPk0Kahgg2RChS8SnioAtGmrGLj5) 
 
+### Clase 6: 
+* Pre-trabajo:
+  * [Métodos push, pop, unshift, shift y slice](https://curriculum.laboratoria.la/es/topics/javascript/04-arrays/02-array-proto)
+* Complemento:
+  * [Métodos para arreglos](https://www.w3schools.com/jsref/jsref_obj_array.asp) 
+
+### Clase 7: 
+* Pre-trabajo:
+  * [indexOf()](https://www.w3schools.com/jsref/jsref_indexof.asp)
+  * [lastIndexOf()](https://www.w3schools.com/jsref/jsref_lastindexof.asp)
+  * [includes()](https://www.w3schools.com/jsref/jsref_includes_array.asp)
+  * [findIndex()](https://www.w3schools.com/jsref/jsref_findindex.asp)
+  * [find()](https://www.w3schools.com/jsref/jsref_find.asp)
+  * [filter()](https://www.w3schools.com/jsref/jsref_filter.asp)
+
+* Complemento:
+  * [Operraciones con arreglos](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array) 
+
+### Clase 8: 
+* Pre-trabajo:
+  * [map()](https://www.w3schools.com/jsref/jsref_map.asp)
+  * [reduce()](https://www.w3schools.com/jsref/jsref_reduce.asp)
+  * [sort()](https://www.w3schools.com/jsref/jsref_sort.asp)
+  * [reverse()](https://www.w3schools.com/jsref/jsref_reverse.asp)
+  * [join()](https://www.w3schools.com/jsref/jsref_join.asp)
+  * [split()](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+
+* Complemento:
+  * [Operraciones con arreglos](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array) 
