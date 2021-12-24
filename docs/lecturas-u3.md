@@ -113,22 +113,16 @@
 
 ### Clase 16: 
 * Pre-trabajo:
-  * [Git reset)](https://www.atlassian.com/es/git/tutorials/undoing-changes/git-reset)
-  * [Git rebase)](https://www.atlassian.com/es/git/tutorials/rewriting-history/git-rebase)
-  * [Git tag)](https://www.atlassian.com/es/git/tutorials/inspecting-a-repository/git-tag)
+  * [Git reset](https://www.atlassian.com/es/git/tutorials/undoing-changes/git-reset)
+  * [Git rebase](https://www.atlassian.com/es/git/tutorials/rewriting-history/git-rebase)
+  * [Git tag](https://www.atlassian.com/es/git/tutorials/inspecting-a-repository/git-tag)
 
 * Complemento:
   * [Git reset - documentación oficial](https://git-scm.com/docs/git-reset)
   * [Git rebase - documentación oficial](https://git-scm.com/docs/git-rebase)
   * [Git tag - documentación oficial](https://git-scm.com/docs/git-tag)
 
-### Clase 17: 
-* Pre-trabajo - semana 12:
-  * [Grid)](https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Grids)
-  * [Media queries)](https://developer.mozilla.org/es/docs/Web/CSS/Media_Queries/Using_media_queries)
 
-* Complemento:
-  * [Responsive Design Example & CSS Media Query Tutorial](hhttps://www.youtube.com/watch?v=91bYBUojyNk)
 
 
 
