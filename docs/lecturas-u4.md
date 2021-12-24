@@ -1,8 +1,8 @@
 ## Unidad 4
 ### Clase 1 - semana 12: 
 * Pre-trabajo - semana 12:
-  * [Grid)](https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Grids)
-  * [Media queries)](https://developer.mozilla.org/es/docs/Web/CSS/Media_Queries/Using_media_queries)
+  * [Grid](https://developer.mozilla.org/es/docs/Learn/CSS/CSS_layout/Grids)
+  * [Media queries](https://developer.mozilla.org/es/docs/Web/CSS/Media_Queries/Using_media_queries)
 
 * Complemento:
   * [Responsive Design Example & CSS Media Query Tutorial](hhttps://www.youtube.com/watch?v=91bYBUojyNk)
