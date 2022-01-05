@@ -66,5 +66,18 @@
 * Complemento:
   * [Firebase Auth | Autenticacion de Correo, Gmail y Facebook con Firebase y Javascript](https://www.youtube.com/watch?v=1rLBjRF0ep0)
 
+### Clase 8: 
+* Pre-trabajo:
+  * [Bases de datos](https://www.hn.cl/blog/para-que-sirven-la-bases-de-datos/)
+  * [Bases de datos relacionales](https://rockcontent.com/es/blog/tipos-de-base-de-datos/)
+  * [Bases de datos no relacionales](https://aws.amazon.com/es/nosql/)
+  * [Cloud Firestore](https://firebase.google.com/docs/firestore)
+  * [Agregando datos de una coleccion](https://firebase.google.com/docs/firestore/manage-data/add-data)
+  * [Obteniendo datos de una coleccion](https://firebase.google.com/docs/firestore/query-data/get-data)
+
+* Complemento:
+  * [Firebase Auth | Autenticacion de Correo, Gmail y Facebook con Firebase y Javascript](https://www.youtube.com/watch?v=1rLBjRF0ep0)
+
+
 
 
