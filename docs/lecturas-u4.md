@@ -62,7 +62,6 @@
 ### Clase 7: 
 * Pre-trabajo:
   * [Autenticación con Google](https://firebase.google.com/docs/auth?authuser=0)
-  * [Autenticación con Facebook](https://firebase.google.com/docs/auth/web/facebook-login)
 
 * Complemento:
   * [Firebase Auth | Autenticacion de Correo, Gmail y Facebook con Firebase y Javascript](https://www.youtube.com/watch?v=1rLBjRF0ep0)
