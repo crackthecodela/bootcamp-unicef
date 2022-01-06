@@ -5,7 +5,7 @@
   * [Media queries](https://developer.mozilla.org/es/docs/Web/CSS/Media_Queries/Using_media_queries)
 
 * Complemento:
-  * [Responsive Design Example & CSS Media Query Tutorial](hhttps://www.youtube.com/watch?v=91bYBUojyNk)
+  * [Responsive Design Example & CSS Media Query Tutorial](https://www.youtube.com/watch?v=91bYBUojyNk)
 
 ### Clase 2: 
 * Pre-trabajo:
