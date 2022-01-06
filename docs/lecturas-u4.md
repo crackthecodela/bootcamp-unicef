@@ -78,6 +78,12 @@
 * Complemento:
   * [Firebase Auth | Autenticacion de Correo, Gmail y Facebook con Firebase y Javascript](https://www.youtube.com/watch?v=1rLBjRF0ep0)
 
+### Clase 9: 
+* Pre-trabajo:
+  * [No hay lecturas asignadas para esta clase.]
+
+* Complemento:
+  * [Font-Awesome](https://fontawesome.com/v5.15/how-to-use/on-the-web/referencing-icons/basic-use)
 
 
 
