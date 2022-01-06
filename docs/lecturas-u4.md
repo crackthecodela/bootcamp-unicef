@@ -80,10 +80,9 @@
 
 ### Clase 9: 
 * Pre-trabajo:
-  * [No hay lecturas asignadas para esta clase.]
+  * No hay lecturas asignadas para esta clase.
 
 * Complemento:
-  * [Font-Awesome](https://fontawesome.com/v5.15/how-to-use/on-the-web/referencing-icons/basic-use)
 
 
 
