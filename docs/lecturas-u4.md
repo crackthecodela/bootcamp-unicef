@@ -84,5 +84,11 @@
 
 * Complemento:
 
+### Clase 10 - semana 14: 
+* Pre-trabajo:
+  * No hay lecturas asignadas para esta clase.
+
+* Complemento:
+
 
 
