@@ -90,5 +90,12 @@
 
 * Complemento:
 
+### Clase 11: 
+* Pre-trabajo:
+  * [Actualizar datos con Firestore](https://firebase.google.com/docs/firestore/manage-data/add-data?authuser=0#update-data)
+  * [Eliminar datos con Firestore](https://firebase.google.com/docs/firestore/manage-data/delete-data?authuser=0#delete_documents)
+
+* Complemento:
+  * [Firebase Firestore CRUD con Javascript y HTML](https://www.youtube.com/watch?v=itNsRn1kjLU&t=2909s)
 
 
