@@ -98,4 +98,9 @@
 * Complemento:
   * [Firebase Firestore CRUD con Javascript y HTML](https://www.youtube.com/watch?v=itNsRn1kjLU&t=2909s)
 
+### Clase 12: 
+* Pre-trabajo:
+  * [Videos Firebase](https://drive.google.com/drive/folders/1Ez2DWpFgbHJnFrjA7uhFmBP1J8NYcOy3?usp=sharing)
+
+* Complemento:
 
