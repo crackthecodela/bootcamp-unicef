@@ -104,3 +104,12 @@
 
 * Complemento:
 
+### Clase 13: 
+* Pre-trabajo:
+  * [Colaborando en GitHub](https://medium.com/laboratoria-how-to/git-y-sus-amigos-los-conflictos-ed944c105cae)
+
+* Complemento:
+  * [GIT / GITHUB ♥ Ramas o Branch, Uniones o Merge ♥ [ Tutorial en Español - Parte 3]](https://www.youtube.com/watch?v=tFr0Vg1q9Eg)
+  * [Colaboración de proyectos en Github 1](https://drive.google.com/file/d/1ZtOgAU1SkMBJ1wYVrZOab7eaM80wZK-i/view?usp=sharing)
+  * [Colaboración de proyectos en Github 2](https://drive.google.com/file/d/1ZBX9T8mxdEPqkekiFeYENqWOTDJVnWtV/view?usp=sharing)
+
