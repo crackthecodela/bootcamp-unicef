@@ -113,3 +113,9 @@
   * [Colaboración de proyectos en Github 1](https://drive.google.com/file/d/1ZtOgAU1SkMBJ1wYVrZOab7eaM80wZK-i/view?usp=sharing)
   * [Colaboración de proyectos en Github 2](https://drive.google.com/file/d/1ZBX9T8mxdEPqkekiFeYENqWOTDJVnWtV/view?usp=sharing)
 
+### Clase 14: 
+* Pre-trabajo:
+  * No hay lecturas asignadas para esta clase.
+
+* Complemento:
+
