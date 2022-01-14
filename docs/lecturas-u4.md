@@ -119,3 +119,62 @@
 
 * Complemento:
 
+### Clase 15 - semana 15: 
+* Pre-trabajo:
+  * No hay lecturas asignadas para esta clase.
+
+* Complemento:
+
+### Clase 16: 
+* Pre-trabajo:
+  * No hay lecturas asignadas para esta clase.
+
+* Complemento:
+
+### Clase 17: 
+* Pre-trabajo:
+  * No hay lecturas asignadas para esta clase.
+
+* Complemento:
+
+### Clase 18: 
+* Pre-trabajo:
+  * No hay lecturas asignadas para esta clase.
+
+* Complemento:
+
+### Clase 19: 
+* Pre-trabajo:
+  * No hay lecturas asignadas para esta clase.
+
+* Complemento:
+
+### Clase 20 - semana 16: 
+* Pre-trabajo:
+  * No hay lecturas asignadas para esta clase.
+
+* Complemento:
+
+### Clase 21: 
+* Pre-trabajo:
+  * No hay lecturas asignadas para esta clase.
+
+* Complemento:
+
+### Clase 22: 
+* Pre-trabajo:
+  * No hay lecturas asignadas para esta clase.
+
+* Complemento:
+
+### Clase 23: 
+* Pre-trabajo:
+  * No hay lecturas asignadas para esta clase.
+
+* Complemento:
+
+### Clase 24: 
+* Pre-trabajo:
+  * No hay lecturas asignadas para esta clase.
+
+* Complemento:
