@@ -40,7 +40,8 @@
   * [Hosting Web](https://es.wikipedia.org/wiki/Alojamiento_web)
   * [Dominio Web](https://es.wikipedia.org/wiki/Dominio_de_internet)
   * [Servidor Web](https://es.wikipedia.org/wiki/Servidor_web)
+  * [Wordpress](https://wordpress.com/es/)
 
 * Complemento:
-  * []()
+  * [TUTORIAL WORDPRESS EN ESPAÑOL DE 0 A 100 – MANUAL COMPLETO](https://romualdfons.com/tutorial-wordpress/)
 
