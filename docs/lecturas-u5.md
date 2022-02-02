@@ -51,3 +51,9 @@
 * Complemento:
   * [TUTORIAL WORDPRESS EN ESPAÑOL DE 0 A 100 – MANUAL COMPLETO](https://romualdfons.com/tutorial-wordpress/)
 
+### Clase 7: 
+* Pre-trabajo:
+  * [TUTORIAL WORDPRESS EN ESPAÑOL DE 0 A 100 – MANUAL COMPLETO](https://romualdfons.com/tutorial-wordpress/
+
+* Complemento:
+  * [No hay complementos para esta clase]
