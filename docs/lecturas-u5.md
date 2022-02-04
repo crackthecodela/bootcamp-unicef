@@ -57,3 +57,25 @@
 
 * Complemento:
   * [No hay complementos para esta clase]
+
+### Clase 8: 
+* Pre-trabajo:
+  * [TUTORIAL WORDPRESS EN ESPAÑOL DE 0 A 100 – MANUAL COMPLETO](https://romualdfons.com/tutorial-wordpress/)
+
+* Complemento:
+  * [No hay complementos para esta clase]
+
+### Clase 9: 
+* Pre-trabajo:
+  * [TUTORIAL WORDPRESS EN ESPAÑOL DE 0 A 100 – MANUAL COMPLETO](https://romualdfons.com/tutorial-wordpress/)
+  * [WooCommerce](https://es.wordpress.org/plugins/woocommerce/)
+
+* Complemento:
+  * [No hay complementos para esta clase]
+
+### Clase 10: 
+* Pre-trabajo:
+  * [TUTORIAL WORDPRESS EN ESPAÑOL DE 0 A 100 – MANUAL COMPLETO](https://romualdfons.com/tutorial-wordpress/)
+
+* Complemento:
+  * [No hay complementos para esta clase]
