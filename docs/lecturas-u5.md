@@ -120,6 +120,7 @@
   * [Elevetor Pitch](https://es.wikipedia.org/wiki/Elevator_pitch#:~:text=La%20idea%20b%C3%A1sica%20y%20resumida,Crosby.)
   * [Portafolios de proyectos ejemplos](https://www.freecodecamp.org/espanol/news/ejemplos-de-portafolio-de-desarrollador-web/)
   * [¡Contrátenme!: 25 preguntas clave que todos los reclutadores hacen](https://www.occ.com.mx/blog/25-preguntas-clave-en-una-entrevista-laboral/)
+  * [Cómo preparar un Elevator Pitch para tu próxima entrevista de trabajo](https://www.modelocurriculum.net/blog/como-preparar-un-elevator-pitch-para-tu-proxima-entrevista-de-trabajo)
 
 * Complemento:
   * [No hay complementos para esta clase]
