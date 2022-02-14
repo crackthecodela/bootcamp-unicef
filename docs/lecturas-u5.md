@@ -82,7 +82,7 @@
 
 ### Clase 11 - semana 19: 
 * Pre-trabajo:
-  * []()
+  * [Maketing Digital](https://www.youtube.com/watch?v=whkyH0NDsLQ)
 
 * Complemento:
   * []()
