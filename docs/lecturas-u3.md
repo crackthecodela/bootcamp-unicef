@@ -52,8 +52,7 @@
   * [reduce()](https://www.w3schools.com/jsref/jsref_reduce.asp)
   * [sort()](https://www.w3schools.com/jsref/jsref_sort.asp)
   * [reverse()](https://www.w3schools.com/jsref/jsref_reverse.asp)
-  * [join()](https://www.w3scho
-  ols.com/jsref/jsref_join.asp)
+  * [join()](https://www.w3schools.com/jsref/jsref_join.asp)
   * [split()](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/split)
 
 * Complemento:
